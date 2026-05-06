@@ -9,4 +9,5 @@ class James:
 if __name__ == "__main__": 
     print("제임스가 메인이다.")
     w = Walter()
-    w.get_data() 
+    w.get_data()
+    
